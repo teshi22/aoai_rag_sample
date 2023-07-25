@@ -1,0 +1,14 @@
+[
+    {
+        "data_path": "./data",
+        "location": "japaneast",
+        "subscription_id": "XXXXXXXX",
+        "resource_group": "cognitive-handson",
+        "search_service_name": "cg-instance-115",
+        "index_name": "ikuji-index-ja",
+        "chunk_size": 1024,
+        "token_overlap": 128,
+        "semantic_config_name": "default",
+        "language": "ja"
+    }
+]
