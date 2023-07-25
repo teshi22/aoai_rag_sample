@@ -1,0 +1,14 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "",
+    "FUNCTIONS_WORKER_RUNTIME": "python",
+    "OPENAI_API_TYPE": "azure",
+    "OPENAI_API_KEY": "XXXXXXXXXXXXXXXXXXXX",
+    "OPENAI_API_BASE": "https://openai-handson.openai.azure.com",
+    "OPENAI_DEPLOYMENT": "test-gpt-35",
+    "AZURE_COGNITIVE_SEARCH_SERVICE_NAME": "cg-instance-115",
+    "AZURE_COGNITIVE_SEARCH_INDEX_NAME": "openai-doc-ja",
+    "AZURE_COGNITIVE_SEARCH_API_KEY": "XXXXXXXXXXXX"
+  }
+}
