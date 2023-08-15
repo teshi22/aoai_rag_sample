@@ -1,0 +1,7 @@
+{
+	"request": {
+		"index": "openai-doc-ja",
+		"query": "Azure OpenAIで使えるモデルを教えて"
+	},
+	"user_name": "text"
+}
