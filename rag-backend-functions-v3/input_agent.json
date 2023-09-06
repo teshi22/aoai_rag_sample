@@ -1,0 +1,23 @@
+{
+    "request": {
+        "messages": [
+            {
+                "role": "system",
+                "content": "You are an AI assistant that helps people find information."
+            },
+            {
+                "role": "user",
+                "content": "東京の首都は？"
+            },
+            {
+                "role": "assistant",
+                "content": "東京は日本の首都です。"
+            },
+            {
+                "role": "user",
+                "content": "Azure OpenAIで使えるモデルを教えて"
+            }
+        ]
+    },
+    "user_name": "test"
+}
